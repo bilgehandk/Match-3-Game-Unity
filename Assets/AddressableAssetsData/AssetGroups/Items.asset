@@ -47,6 +47,11 @@ MonoBehaviour:
     m_SerializedLabels:
     - Item
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ac73b3f562f4497a970de23dd5ff3f6
+    m_Address: Assets/Sound/winsound.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 73e82b5ba2679464f8e3a28ed0267a51, type: 2}
   m_SchemaSet:
